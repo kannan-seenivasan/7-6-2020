@@ -1,1 +1,2 @@
 this is edited for merge conflict
+edited for master
